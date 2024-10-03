@@ -1,5 +1,7 @@
 # Ruby on Rails Starter Overview
 
+TEST
+
 The Ruby on Rails Starter demonstrates a simple, reusable Ruby web application based on the Rails framework.
 
 ## Run the app locally
